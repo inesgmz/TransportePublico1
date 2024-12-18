@@ -54,4 +54,4 @@ Define la interfaz de usuario para `RutasActivity` con un `ListView`.
 ### `activity_alertas.xml`
 Define la interfaz de usuario para `AlertasActivity` con un `ListView` y un botón para volver a la actividad principal.
 
-URL: 
+URL: https://github.com/inesgmz/TransportePublico1.git
